@@ -12,3 +12,6 @@ randomButton.addEventListener("click", (e) => {
     });
 })
 
+clearButton.addEventListener("click", (e) => {
+    window.location.reload();
+})
